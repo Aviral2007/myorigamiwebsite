@@ -1,0 +1,46 @@
+
+            h1{
+             color:rgb(15, 231, 202);
+            }
+
+            
+            body{
+                background-color:rgb(155, 228, 72);
+            }
+
+            .header{
+                background-color:black;
+                display:flex;
+               }
+
+               .item{
+                   background-color:rgb(171, 209, 0);
+                   flex-wrap: wrap;
+                   justify-content: center;
+
+               }
+
+               .footer{
+            background-color:rgb(238, 215, 6);
+            flex-wrap: wrap;
+            justify-content: center;
+
+               }
+   
+
+   
+            img{
+              border: solid;
+              border-color: rgb(238, 215, 6);
+              border-radius: 200px;
+            }
+
+            p,h3{
+                font-family:  sans-serif;
+
+      
+
+
+
+            }
+       
